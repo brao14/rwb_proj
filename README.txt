@@ -1,9 +1,0 @@
-https://murphy.wot.eecs.northwestern.edu/~drj132/rwb/rwb.pl
-
-Group members:
-Da-Jun Robert Jin
-Junwon Jang
-Austin Kim
-
-
-
